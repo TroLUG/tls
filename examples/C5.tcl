@@ -1,3 +1,4 @@
+#!/usr/bin/tclsh
 # client: https (http and TLS)    (GET and POST request)
 
 

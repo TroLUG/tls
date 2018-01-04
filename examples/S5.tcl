@@ -1,3 +1,4 @@
+#!/usr/bin/tclsh
 # server: https (http and TLS)
 
 package require tls

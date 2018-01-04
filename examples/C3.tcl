@@ -1,3 +1,4 @@
+#!/usr/bin/tclsh
 # client: http without TLS (GET and POST request)
 
 package require http

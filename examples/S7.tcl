@@ -1,3 +1,4 @@
+#!/usr/bin/tclsh
 # server: https with multi-threading
 
 package require tls

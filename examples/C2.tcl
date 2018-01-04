@@ -1,3 +1,4 @@
+#!/usr/bin/tclsh
 
 # client: set with TLS
 

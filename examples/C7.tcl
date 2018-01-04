@@ -1,3 +1,4 @@
+#!/usr/bin/tclsh
 # client: https (http and TLS)   (POST request)
 
 # Do the test as follows:

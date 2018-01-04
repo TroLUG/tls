@@ -1,3 +1,4 @@
+#!/usr/bin/tclsh
 # server: socket with TLS
 
 package require tls
