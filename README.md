@@ -1,6 +1,5 @@
-# tls
-Quelltexte zum TLS Workshop
-****************************************************************************
+# Quelltexte zum TLS Workshop
+
 Generating Client/Server certificates with a local CA
 
 Attention: make sure the common names in the created certs are different from each other (otherwise it will be detected).
